@@ -1767,6 +1767,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 **Basic Data Structure Interview Questions for Freshers:**
 
 **Conceptual Understanding:**
+
 1. **What are Data Structures?**
 2. **Why Create Data Structures?**
 3. **What are some applications of Data structures?**
@@ -1774,6 +1775,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 5. **Can you explain the difference between file structure and storage structure?**
 
 **Understanding Basic Data Structures:**
+
 6. **Describe the types of Data Structures?**
 7. **What is a stack data structure? What are the applications of the stack?**
 8. **What are different operations available in the stack data structure?**
@@ -1793,6 +1795,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 **Data Structure Interview Questions for Experienced:**
 
 **Advanced Data Structures and Algorithms:**
+
 21. **What is binary tree data structure? What are the applications for binary trees?**
 22. **What is binary search tree data structure? What are the applications for binary search trees?**
 23. **What are tree traversals?**
@@ -1815,6 +1818,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 40. **Explain the concept of dynamic programming and its applications in solving problems efficiently.**
 
 **Complex Data Structure and Algorithm Concepts:**
+
 41. **What is a suffix tree data structure and its applications?**
 42. **Discuss the advantages and disadvantages of using an array-based implementation versus a linked list-based implementation.**
 43. **Explain the concept of amortized analysis in the context of data structures.**
@@ -1827,11 +1831,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 50. **What is the difference between a breadth-first search (BFS) and a depth-first search (DFS) in graph traversal?**
 
 
-
 ### DBMS
-
-
-Certainly! Here's the properly indexed and formatted list of DBMS interview questions:
 
 **Basic DBMS Interview Questions:**
 1. **What is DBMS and what is its utility? Explain RDBMS with examples.**
@@ -1930,6 +1930,73 @@ Certainly! Here's the properly indexed and formatted list of DBMS interview ques
 39. **What are some best practices for designing efficient database schemas and indexing strategies?**
 40. **How does denormalization fit into the database design process, and when is it appropriate to denormalize a database schema?**
 
+### SQL
+**Basic SQL Interview Questions:**
+1. **What is SQL and its significance in database management?**
+2. **Explain the difference between SQL, MySQL, and SQL Server.**
+3. **What are the different types of SQL commands?**
+4. **What is a database schema?**
+5. **Explain the difference between a primary key and a foreign key.**
+6. **What is a NULL value in SQL?**
+7. **What are the various data types supported in SQL?**
+8. **Explain the difference between CHAR and VARCHAR data types.**
+9. **What is a constraint in SQL? Provide examples of different types of constraints.**
+10. **How do you comment in SQL?**
+
+**Intermediate SQL Interview Questions:**
+11. **What is a SQL query?**
+12. **Explain the difference between DDL, DML, and DCL commands in SQL.**
+13. **What is the difference between WHERE and HAVING clauses in SQL?**
+14. **Explain the concept of JOIN in SQL with examples.**
+15. **What is a subquery in SQL?**
+16. **How do you perform sorting in SQL?**
+17. **What is a stored procedure? How do you create and execute a stored procedure in SQL?**
+18. **Explain the concept of transaction management in SQL.**
+19. **What is the difference between UNION and UNION ALL in SQL?**
+20. **How do you handle duplicate records in a SQL query?**
+
+**Advanced SQL Interview Questions:**
+21. **Explain the concept of indexing in SQL. How does indexing improve query performance?**
+22. **What are the different types of indexes in SQL?**
+23. **What is the difference between clustered and non-clustered indexes?**
+24. **Explain the concept of normalization and denormalization in SQL.**
+25. **What are SQL injection attacks, and how can they be prevented?**
+26. **What is the difference between DELETE and TRUNCATE commands in SQL?**
+27. **Explain the concept of triggers in SQL. When and why do we use triggers?**
+28. **What is the difference between an inner join and an outer join in SQL?**
+29. **Explain the concept of recursive queries in SQL. Provide an example.**
+30. **How do you handle NULL values in SQL?**
+
+**Additional Topics Possibly Asked in TCS Prime Interview:**
+
+**Advanced SQL Concepts:**
+31. **Discuss the benefits of using Common Table Expressions (CTEs) in SQL queries.**
+32. **Explain the concept of window functions in SQL. Provide examples of window functions.**
+33. **What are the different types of SQL constraints, and how do you enforce them?**
+34. **Explain the concept of data integrity in SQL. How do you ensure data integrity in a database?**
+35. **Discuss the differences between SQL Server, Oracle, and PostgreSQL in terms of features and capabilities.**
+
+**Performance Optimization and Query Tuning:**
+36. **What are some common techniques for optimizing SQL query performance?**
+37. **Explain the importance of execution plans in SQL query optimization.**
+38. **What is the purpose of database normalization, and how does it impact query performance?**
+39. **Discuss the role of indexes in improving SQL query performance.**
+40. **How do you identify and troubleshoot performance bottlenecks in SQL queries?**
+
+**Data Analysis and Reporting:**
+41. **How do you generate reports using SQL queries?**
+42. **Discuss the advantages of using SQL for data analysis and reporting.**
+43. **What are some popular SQL-based reporting tools used in the industry?**
+44. **Explain the concept of OLAP (Online Analytical Processing) in SQL.**
+45. **How do you perform data aggregation and summarization using SQL?**
+
+**Data Migration and Transformation:**
+46. **What are the key considerations for migrating data between different database platforms using SQL?**
+47. **Explain the process of data transformation in SQL.**
+48. **Discuss the challenges associated with data migration and transformation in SQL.**
+49. **What are some best practices for ensuring data quality during the data migration process?**
+50. **How do you handle schema changes and data synchronization during a database migration project?**
+
 
 ### Computer Network
 
@@ -1995,3 +2062,4 @@ Certainly! Here's the properly indexed and formatted list of DBMS interview ques
 53. **What is the purpose of a default gateway in networking?**
 54. **Describe the function of a network firewall and its types.**
 55. **Explain the concept of port forwarding and its use in networking.**
+
