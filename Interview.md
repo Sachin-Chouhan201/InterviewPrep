@@ -1635,6 +1635,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 
 
 **Basic OOPs Interview Questions:**
+
 1. **What is meant by the term OOPs?**
 2. **What is the need for OOPs?**
 3. **What are some major Object-Oriented Programming languages?**
@@ -1645,6 +1646,7 @@ These examples demonstrate practical uses of the `const` keyword in C programmin
 8. **Why is OOPs so popular?**
 
 **Advanced OOPs Interview Questions:**
+
 9. **What is a class?**
 10. **What is an object?**
 11. **What is encapsulation?**
