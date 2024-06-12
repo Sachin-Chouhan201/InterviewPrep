@@ -13,11 +13,11 @@
 9. **OS**
 10. **Linux**
 11. **Basic Cloud**
-12. **Azure**
+12. ` **Azure**
 13. **React**
 14. **JS**
 15. **HTML/CSS**
-16. **Git**
+16. ` **Git** 
 17. **ML/AI**
 18. **Cybersecurity**
 19. **Internship**
