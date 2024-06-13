@@ -302,4 +302,6 @@ Preparing answers to these questions will help you demonstrate your understandin
 
 
 
+"I am a highly motivated and adaptable individual with a strong passion for leveraging technology to solve real-world problems, consistently striving for excellence and continuous learning."
+
 
